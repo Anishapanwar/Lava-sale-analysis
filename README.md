@@ -1,14 +1,4 @@
 # LAVA SALE ANALYSIS
-# 📊 Advanced E-Commerce Analytics: Multi-Source Data Pipeline & Power BI Star Schema
-
-![Power BI](https://shields.io)
-![Power Query](https://shields.io)
-![DAX](https://shields.io)
-![Markdown](https://shields.io)
-
-An end-to-end data engineering and business intelligence project that transforms dirty, unnormalized flat files spanning customer demographics, localized product catalogs, order headers, and line-item transactional logs into a optimized, relational **Star Schema model** designed for rapid reporting.
-
----
 
 ## 🎯 1. Project Objective
 
